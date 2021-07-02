@@ -2,4 +2,4 @@
 Demo of creating repo
 
 # Image
-![Getting Started](./img.jpg)
+![Getting Started](./Outcomes and Launch Date.png)
